@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" width="300" height="64" role="img" aria-label="Logo DavanteDent">
+  <!-- Diente -->
+  <path d="M10 8 C16 2 24 6 28 8 C32 6 40 2 46 8 C52 15 48 28 44 40 C42 50 40 58 35 58 C30 58 30 44 28 44 C26 44 26 58 21 58 C16 58 14 50 12 40 C8 28 4 15 10 8 Z"
+        fill="#ffffff"/>
+  <!-- Brillo -->
+  <path d="M16 14 C18 11 22 11 24 13" fill="none" stroke="#ff5c47" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nombre -->
+  <text x="64" y="43" font-family="'Segoe UI', Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Davante<tspan fill="#ff5c47">Dent</tspan></text>
+</svg>
